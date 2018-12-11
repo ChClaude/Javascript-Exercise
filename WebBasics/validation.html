@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        #userForm {
+            border: 2px inset #666666;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Validation Input</h1> 
+    <p>This is a test of validation input using javascript</p>
+
+    <input type="text" id="myForm" placeholder="search...">
+
+    <button type="button" onclick="myValidation()">Click here</button>
+    <p id="result"></p>
+
+    <form id="userForm" action="">
+        <input type="text" name="username" placeholder="Username">
+        <br>
+        <br>
+        <input type="text" name="realname" placeholder="Realname">
+        <br>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+    
+    <script src="validation.js"></script>
+</body>
+</html>
