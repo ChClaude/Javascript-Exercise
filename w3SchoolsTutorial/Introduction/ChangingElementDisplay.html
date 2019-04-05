@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Changing Element Display</title>
+</head>
+<body>
+<h2>What Can JavaScript Do?</h2>
+<p>JavaScript can show hidden HTML elements. </p>
+<p id="demo" style="display: none">Hello JavaScript!</p>
+
+<button onclick="fadeIn()">Click Me!</button>
+
+<script>
+    function fadeIn() {
+        document.getElementById('demo').style.display = 'block'
+    }
+</script>
+</body>
+</html>
