@@ -1,0 +1,11 @@
+After the declaration of a variable in JavaScript, the variable has no value (technically it has the value of undefined).
+
+It's a good programming practice to declare all variables at the beginning of a script.
+
+If you re-declare a JavaScript variable, it will not lose its value.
+
+The variable carName will still have the value "Volvo" after the execution of these statements:
+
+Example
+var carName = "Volvo";
+var carName;
