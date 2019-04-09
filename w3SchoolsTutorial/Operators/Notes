@@ -1,0 +1,5 @@
+Operator	Description
+==	        equal to
+===	        equal value and equal type
+!=	        not equal
+!==	        not equal value or not equal type

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd7ead6-c719-4699-bffc-ed5a831a1414" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Arithmetic/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Data_Types/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Operators/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,32 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Introduction/ChangingElementDisplay.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-              <folding>
-                <element signature="n#style#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Variables/Notes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Variables/JavaScriptVariable.html">
+        <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Data_Types/Notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+            <state relative-caret-position="539">
+              <caret line="76" column="65" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -66,6 +47,10 @@
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Introduction/ChangingElementDisplay.html" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Variables/Notes" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Variables/JavaScriptVariable.html" />
+        <option value="$PROJECT_DIR$/w3SchoolsTutorial/Operators/Notes_operators" />
+        <option value="$PROJECT_DIR$/w3SchoolsTutorial/Operators/Notes" />
+        <option value="$PROJECT_DIR$/w3SchoolsTutorial/Arithmetic/Notes" />
+        <option value="$PROJECT_DIR$/w3SchoolsTutorial/Data_Types/Notes" />
       </list>
     </option>
   </component>
@@ -99,7 +84,7 @@
               <item name="Js execise files" type="b2602c69:ProjectViewProjectNode" />
               <item name="Js execise files" type="462c0819:PsiDirectoryNode" />
               <item name="w3SchoolsTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="Variables" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Types" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,18 +137,20 @@
       <workItem from="1554387252871" duration="1687000" />
       <workItem from="1554473033941" duration="1189000" />
       <workItem from="1554560020638" duration="28000" />
-      <workItem from="1554560101983" duration="1935000" />
+      <workItem from="1554560101983" duration="1991000" />
+      <workItem from="1554791052193" duration="212000" />
+      <workItem from="1554791302474" duration="2800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4839000" />
+    <option name="totallyTimeSpent" value="7907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31473213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.234375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -175,8 +162,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.664" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.6624" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3296" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -203,13 +190,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Variables/Notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Introduction/ChangingElementDisplay.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -220,10 +200,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Variables/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Variables/JavaScriptVariable.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Operators/Notes_operators">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Operators/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Arithmetic/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Data_Types/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="76" column="65" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
         </state>
       </provider>
     </entry>
