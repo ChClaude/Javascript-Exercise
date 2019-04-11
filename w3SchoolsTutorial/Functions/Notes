@@ -1,0 +1,4 @@
+The () Operator Invokes the Function
+Using the example above, toCelsius refers to the function object, and toCelsius() refers to the function result.
+
+Accessing a function without () will return the function definition instead of the function result.
