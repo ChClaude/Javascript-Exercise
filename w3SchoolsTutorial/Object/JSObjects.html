@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Objects</title>
+</head>
+<body>
+<h3>JS Objects</h3>
+<p id="demo"></p>
+
+<script>
+    let person = {name: "Claude", surname: "DE-TCHAMBILA", age: 20, printDetails: function () {
+            return "<b>" + "Name: " + "</b>" +this.name + "<br>" +
+                "<b>" + "Surname: " + "</b>" + this.surname + "<br>" +
+                "<b>" + "Age: " + "</b>" + this.age;
+        }};
+
+    document.getElementById("demo").innerHTML = person.printDetails();
+</script>
+</body>
+</html>

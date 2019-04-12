@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd7ead6-c719-4699-bffc-ed5a831a1414" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Functions/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Object/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Christ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Object/JSObjects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Object/Notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="960">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Object/JSObjects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -52,6 +61,7 @@
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Data_Types/Notes" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Functions/Notes" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Object/Notes" />
+        <option value="$PROJECT_DIR$/w3SchoolsTutorial/Object/JSObjects.html" />
       </list>
     </option>
   </component>
@@ -142,18 +152,19 @@
       <workItem from="1554791052193" duration="212000" />
       <workItem from="1554791302474" duration="3666000" />
       <workItem from="1554905506050" duration="1091000" />
-      <workItem from="1554991429514" duration="944000" />
+      <workItem from="1554991429514" duration="2150000" />
+      <workItem from="1555057544544" duration="238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10808000" />
+    <option name="totallyTimeSpent" value="12252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114583336" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.114583336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -248,8 +259,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Object/Notes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="960">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Object/JSObjects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
         </state>
       </provider>
     </entry>
