@@ -1,0 +1,52 @@
+Six other escape sequences are valid in JavaScript:
+
+Code	    Result
+\b	        Backspace
+\f	        Form Feed
+\n	        New Line
+\r	        Carriage Return
+\t	        Horizontal Tabulator
+\v	        Vertical Tabulator
+
+===============================================================================
+**** When using the == operator, equal strings are equal:
+
+Example
+var x = "John";
+var y = new String("John");
+
+// (x == y) is true because x and y have equal values
+
+========================================================================================================================
+**** When using the === operator, equal strings are not equal, because the === operator expects equality in both type
+and value.
+
+Example
+var x = "John";
+var y = new String("John");
+
+// (x === y) is false because x and y have different types (string and object)
+=========================================================================================
+**** Or even worse. Objects cannot be compared:
+
+Example
+var x = new String("John");
+var y = new String("John");
+
+// (x == y) is false because x and y are different objects
+=============================================================================
+**** Example
+var x = new String("John");
+var y = new String("John");
+
+// (x === y) is false because x and y are different objects
+Note the difference between (x==y) and (x===y).
+Comparing two JavaScript objects will always return false.
+
+===========================================================================================
+Find the position of the character h in the string txt.
+
+
+var txt = "abcdefghijklm";
+var pos = txt.
+indexOf("h");
