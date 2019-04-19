@@ -1,0 +1,84 @@
+body {
+    font: 1.1em Roboto, SansSerif;
+}
+
+#top-app {
+    font-size: 2em;
+    text-align: center;
+    padding: 15px;
+}
+
+#menu {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background: #959595;
+}
+
+.menu-icons {
+    color: #ffffff;
+}
+
+section {
+    width: 70%;
+    height: 100%;
+    margin: 35px 15% 0 15%;
+    padding: 10px 5px 7% 5px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /*border: 3px teal solid;*/
+}
+
+.center-aligned {
+    text-align: center;
+}
+
+section h2 {
+    font: 25px Arial, SansSerif;
+}
+
+#indication {
+    font-size: 1.1em;
+}
+
+input {
+    font-size: 15px;
+    padding: 15px 12px;
+    border: #b5c5dd 1px solid;
+    border-radius: 7px;
+    width: 60%;
+    transition: width 0.4s ease-in-out
+}
+
+input:focus {
+    width: 90%;
+}
+
+#user-input {
+    margin: 5% 0 0 10%;
+}
+
+.links {
+    color: teal;
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: bolder;
+}
+
+button {
+    margin-top: 15px;
+    position: relative;
+    border: none;
+    background: teal;
+    color: #ffffff;
+    font-size: 0.9em;
+    padding: 10px 18px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 110px;
+    left: 60%;
+}
