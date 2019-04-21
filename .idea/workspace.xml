@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd7ead6-c719-4699-bffc-ed5a831a1414" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Number_Methods/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/Numbers/Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,11 +36,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Object/Notes">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="59">
               <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="48">
+                <caret line="2" column="284" selection-start-line="2" selection-start-column="284" selection-end-line="2" selection-end-column="284" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -109,6 +119,7 @@
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Personal_Portfolio_Project/index.html" />
         <option value="$PROJECT_DIR$/Numbers/Notes" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Number_Methods/Notes" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -132,17 +143,6 @@
             <path>
               <item name="Js execise files" type="b2602c69:ProjectViewProjectNode" />
               <item name="Js execise files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Js execise files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Js execise files" type="462c0819:PsiDirectoryNode" />
-              <item name="w3SchoolsTutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Js execise files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Js execise files" type="462c0819:PsiDirectoryNode" />
-              <item name="w3SchoolsTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="Object" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,12 +223,12 @@
       <workItem from="1555587739051" duration="598000" />
       <workItem from="1555664880598" duration="21480000" />
       <workItem from="1555705179988" duration="177000" />
-      <workItem from="1555867378489" duration="2766000" />
+      <workItem from="1555867378489" duration="3531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49039000" />
+    <option name="totallyTimeSpent" value="49804000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,6 +445,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
           <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="284" selection-start-line="2" selection-start-column="284" selection-end-line="2" selection-end-column="284" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
