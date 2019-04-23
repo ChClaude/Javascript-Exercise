@@ -1,0 +1,113 @@
+JavaScript arrays are used to store multiple values in a single variable.
+
+Example
+var cars = ["Saab", "Volvo", "BMW"];
+
+Arrays are Objects
+Arrays are a special type of objects. The typeof operator in JavaScript returns "object" for arrays.
+
+**** var person = ["John", "Doe", 46]; // possible in JS
+
+*Arrays use numbers to access its "elements". In this example, person[0] returns John:
+
+Array:
+var person = ["John", "Doe", 46];
+*Objects use names to access its "members". In this example, person.firstName returns John:
+
+Object:
+var person = {firstName:"John", lastName:"Doe", age:46};
+
+**********Array Elements Can Be Objects
+JavaScript variables can be objects. Arrays are special kinds of objects.
+
+Because of this, you can have variables of different types in the same Array.
+
+You can have objects in an Array. You can have functions in an Array. You can have arrays in an Array:
+
+myArray[0] = Date.now;
+myArray[1] = myFunction;
+myArray[2] = myCars; ******************
+
+
+Looping Array Elements
+The safest way to loop through an array, is using a for loop:
+
+Example
+var fruits, text, fLen, i;
+fruits = ["Banana", "Orange", "Apple", "Mango"];
+fLen = fruits.length;
+
+text = "<ul>";
+for (i = 0; i < fLen; i++) {
+  text += "<li>" + fruits[i] + "</li>";
+}
+text += "</ul>";
+
+
+*******You can also use the Array.forEach() function:
+
+Example
+var fruits, text;
+fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+text = "<ul>";
+fruits.forEach(myFunction);
+text += "</ul>";
+
+function myFunction(value) {
+  text += "<li>" + value + "</li>";
+}
+
+
+Adding Array Elements
+The easiest way to add a new element to an array is using the push() method:
+
+Example
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Lemon");    // adds a new element (Lemon) to fruits
+
+The Difference Between Arrays and Objects
+In JavaScript, arrays use numbered indexes.
+
+In JavaScript, objects use named indexes.
+
+Arrays are a special kind of objects, with numbered indexes.
+
+These two different statements both create a new empty array named points:
+
+var points = new Array();     // Bad
+var points = [];              // Good
+
+
+**** How to Recognize an Array
+     A common question is: How do I know if a variable is an array?
+
+     The problem is that the JavaScript operator typeof returns "object":
+
+     var fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+     typeof fruits;    // returns object
+     The typeof operator returns object because a JavaScript array is an object.
+
+     Solution 1:
+     To solve this problem ECMAScript 5 defines a new method Array.isArray():
+
+     Array.isArray(fruits);   // returns true
+     The problem with this solution is that ECMAScript 5 is not supported in older browsers.
+
+     Solution 2:
+     To solve this problem you can create your own isArray() function:
+
+     function isArray(x) {
+       return x.constructor.toString().indexOf("Array") > -1;
+     }
+     The function above always returns true if the argument is an array.
+
+     Or more precisely: it returns true if the object prototype contains the word "Array".
+
+     Solution 3:
+     The instanceof operator returns true if an object is created by a given constructor:
+
+     var fruits = ["Banana", "Orange", "Apple", "Mango"];
+
+     fruits instanceof Array;   // returns true
