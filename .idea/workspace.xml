@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd7ead6-c719-4699-bffc-ed5a831a1414" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Iteration_Methods/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Methods/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Methods/Notes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Sort/Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Iteration_Methods/Notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+            <state relative-caret-position="429">
+              <caret line="173" column="4" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="96">
+                <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -72,7 +80,6 @@
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Personal_Portfolio_Project/index.html" />
         <option value="$PROJECT_DIR$/Numbers/Notes" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/Number_Methods/Notes" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/JS_Arrays/LoopingArray.js" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/JS_Arrays/Notes" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Methods/Notes.html" />
@@ -80,6 +87,7 @@
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Sort/Notes.html" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Sort/Notes" />
         <option value="$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Iteration_Methods/Notes" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -108,12 +116,6 @@
               <item name="Js execise files" type="b2602c69:ProjectViewProjectNode" />
               <item name="Js execise files" type="462c0819:PsiDirectoryNode" />
               <item name="w3SchoolsTutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Js execise files" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Js execise files" type="462c0819:PsiDirectoryNode" />
-              <item name="w3SchoolsTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="JS_Array_Iteration_Methods" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,12 +204,12 @@
       <workItem from="1556028423504" duration="1948000" />
       <workItem from="1556101956592" duration="3000" />
       <workItem from="1556199054997" duration="3660000" />
-      <workItem from="1556303012206" duration="3971000" />
+      <workItem from="1556303012206" duration="4413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59703000" />
+    <option name="totallyTimeSpent" value="60145000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,16 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="48">
-            <caret line="2" column="284" selection-start-line="2" selection-start-column="284" selection-end-line="2" selection-end-column="284" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/Personal_Portfolio_Project/css/myStyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
@@ -481,8 +473,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w3SchoolsTutorial/JS_Array_Iteration_Methods/Notes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+        <state relative-caret-position="429">
+          <caret line="173" column="4" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
